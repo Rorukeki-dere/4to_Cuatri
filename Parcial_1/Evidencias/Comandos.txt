@@ -1,0 +1,71 @@
+-------------- INICIO --------------------
+ver carpetas----
+ls
+
+crear carpeta----
+mkdir "nombre de la carpeta"
+
+moverse hacia carpetas----
+cd "nombre de la carpeta
+
+moverse hacia atras de las carpetas---
+cd ..
+
+iniciacion actualizada----
+sudo apt-get update
+
+descargar php----
+sudo apt-get install php
+
+descargar python---
+sudo apt-get install python3
+
+descargar pip----
+sudo apt-get install python-pip
+
+descargar java---
+sudo apt-get install default-jdk
+
+descargar js_node---
+sudo apt-get install nodejs
+sudo apt-get install npm
+
+descargar git---
+sudo apt-get install git
+
+descargar curl---
+sudo apt-get install curl
+
+descargar NVM---
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+(cierra la terminal y vuelvela abrir)
+source ~/.bashrc
+
+descargar node---
+nvm install node
+
+para correr el archivo node--
+(te debes poner en la carpeta donde esta)
+node "nombre del archivo js".js
+
+descargar React----
+npm install -g create-react-app
+
+ver la version de react----
+npx create-react-app --version
+
+para correr un archivo js desde la terminal---
+node_js "nombre de el archivo".js
+
+usar la aplicacion React----
+npx create-expo-app "nombre de la app"
+
+te mueves a la carpeta de la aplicacion que se creo con el nombre de la app---
+
+comando para correr la aplicacion ----
+npx expo start
+
+escanea el QR que te lanza----
+
+para abrir el code en la carpeta actual---
+code .
